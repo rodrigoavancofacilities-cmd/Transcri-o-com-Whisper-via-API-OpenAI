@@ -1,0 +1,1 @@
+# Transcri-o-com-Whisper-via-API-OpenAI
